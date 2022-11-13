@@ -74,7 +74,7 @@ global.mess = {
     wait: '👉👈انتظر من فضلك...',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    linkm: 'Where is the link?',
+    linkm: 'اين الرابط?',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban',
     badwords: '*🚫Bad Words Not Allowed Here !*\n\n⚠️ Warning... ⚠️',
